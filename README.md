@@ -2,6 +2,5 @@
 ```
 git clone https://github.com/nvkvsk/.dotfiles
 mkdir ~/.config
-cd .dotfiles
-mv ```folder``` .config
+mv .dotfiles/ .config
 ```
